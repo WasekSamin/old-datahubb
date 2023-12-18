@@ -1,0 +1,9 @@
+/env
+front/node_modules/
+db.sqlite3
+venv/
+front/.idea
+__pycache__/
+.vscode
+.idea
+static
